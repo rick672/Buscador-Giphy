@@ -1,4 +1,4 @@
-# 🎯 008_buscadorGifs
+# 🎯 Buscador de Gifs
 
 Un buscador de GIFs interactivo desarrollado con **Vue 3** y **Vite**, que permite buscar y visualizar gifs de manera dinámica utilizando la API de GIPHY.
 
