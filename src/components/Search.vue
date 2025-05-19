@@ -53,7 +53,7 @@ export default {
             </div>
             <button
                 type="submit"
-                class="w-full bg-green-600 hover:bg-green-700 text-white py-2 rounded-md transition-colors"
+                class="w-full cursor-pointer bg-green-600 hover:bg-green-700 text-white py-2 rounded-md transition-colors"
             >
                 🔎 Buscar
             </button>

@@ -1,29 +1,43 @@
-# 008_buscadorGifs
+# 🎯 008_buscadorGifs
 
-This template should help get you started developing with Vue 3 in Vite.
+Un buscador de GIFs interactivo desarrollado con **Vue 3** y **Vite**, que permite buscar y visualizar gifs de manera dinámica utilizando la API de GIPHY.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 📸 Vista Previa
 
-## Customize configuration
+### 🏠 Página de Inicio
+![Inicio](./public/gifs1.png)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### 🔎 Buscador en acción
+![Buscador](./public/gifs2.png)
 
-## Project Setup
+### 🐱 Resultados de búsqueda (Gatos)
+![Resultados](./public/gifs3.png)
 
-```sh
+---
+
+## 🚀 Tecnologías Utilizadas
+
+- ⚙️ Vue 3
+- ⚡ Vite
+- 🎨 TailwindCSS (si lo usaste)
+- 🌐 Giphy API
+
+---
+
+## 🔍 Funcionalidades
+
+- Búsqueda de gifs por palabra clave
+- Resultados en tiempo real desde la API de Giphy
+- Interfaz responsiva y simple
+
+---
+
+## 🛠️ Instalación y Uso
+
+```bash
+git clone https://github.com/rick672/Buscador-Giphy.git
+cd 008_buscadorGifs
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
